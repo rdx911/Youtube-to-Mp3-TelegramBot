@@ -4,7 +4,7 @@ from yt_dlp import YoutubeDL
 from moviepy.editor import *
 
 # Replace 'YOUR_TELEGRAM_BOT_TOKEN' with the API token you obtained from BotFather
-TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+TOKEN = '8163183451:AAHSnzkLJSrNNoPwXhmkYGkyOL8t34YyyDY'
 
 # Initialize the bot
 bot = telebot.TeleBot(TOKEN)
